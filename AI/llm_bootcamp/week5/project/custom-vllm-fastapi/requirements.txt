@@ -1,0 +1,7 @@
+sseclient-py
+requests
+fastapi[standart]
+vllm
+python-dotenv
+openai
+bitsandbytes

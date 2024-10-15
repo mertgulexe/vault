@@ -1,0 +1,6 @@
+datasets
+deepspeed
+python-dotenv
+transformers[torch]
+trl
+wandb

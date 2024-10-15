@@ -1,0 +1,11 @@
+accelerate
+boto3
+datasets
+evaluate
+huggingface-hub
+numpy
+sagemaker
+scikit-learn
+tokenizers
+tqdm
+transformers
