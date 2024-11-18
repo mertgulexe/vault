@@ -1,8 +1,8 @@
 # Index
-1) [JavaScript Basics](https://github.com/gulmert89/studyRoom_others/tree/main#1-javascript-basics)
-2) [Ruby Basics](https://github.com/gulmert89/studyRoom_others/tree/main#2-ruby-basics)
-3) [SQL Sandbox](https://github.com/gulmert89/studyRoom_others/tree/main#3-sql-sandbox)
-4) [YAML Basics & Notes](https://github.com/gulmert89/studyRoom_others/tree/main#4-yaml-basics--notes)
+1) [JavaScript Basics](https://github.com/mertgulexe/vault/blob/main/others/README.md#1-javascript-basics)
+2) [Ruby Basics](https://github.com/mertgulexe/vault/blob/main/others/README.md#2-ruby-basics)
+3) [SQL Sandbox](https://github.com/mertgulexe/vault/blob/main/others/README.md#3-sql-sandbox)
+4) [YAML Basics & Notes](https://github.com/mertgulexe/vault/blob/main/others/README.md#4-yaml-basics--notes)
 
 # 1. JavaScript Basics
 ```js
