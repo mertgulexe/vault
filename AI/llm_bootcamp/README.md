@@ -17,6 +17,7 @@
 * RMSNorm layer (Root Mean Square Layer Normalization): [Root Mean Square Layer Normalization](https://arxiv.org/pdf/1910.07467)
 
 ## Week 2: Training LLMs to Follow Instructions
+Table-1: Data to train GPT-3
 
 |Dataset|Quantity (tokens)|Weight in training mix|URL|
 |-|-|:-:|-|
@@ -25,8 +26,6 @@
 |Books1|12 billion|8%|[https://github.com/soskek/bookcorpus](https://github.com/soskek/bookcorpus)|
 |Books2|55 billion|8%|[https://github.com/soskek/bookcorpus](https://github.com/soskek/bookcorpus)|
 |Wikipedia|3 billion|3%|[https://huggingface.co/datasets/wikipedia](https://huggingface.co/datasets/wikipedia)|
-
-<p style="text-align: center;">Table-1: Data To train GPT-3</p>
 
 * Alpaca model and dataset: [Alpaca: A Strong, Replicable Instruction-Following Model](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 * InstructGPT paper: [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155)
