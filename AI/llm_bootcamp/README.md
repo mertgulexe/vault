@@ -25,6 +25,7 @@
 |Books1|12 billion|8%|[https://github.com/soskek/bookcorpus](https://github.com/soskek/bookcorpus)|
 |Books2|55 billion|8%|[https://github.com/soskek/bookcorpus](https://github.com/soskek/bookcorpus)|
 |Wikipedia|3 billion|3%|[https://huggingface.co/datasets/wikipedia](https://huggingface.co/datasets/wikipedia)|
+
 <p style="text-align: center; font-style: italic;">Table-1: Data To train GPT-3</p>
 
 * Alpaca model and dataset: [Alpaca: A Strong, Replicable Instruction-Following Model](https://crfm.stanford.edu/2023/03/13/alpaca.html)
